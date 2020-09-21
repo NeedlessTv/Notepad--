@@ -1,0 +1,9 @@
+I:\visual studio\some thing usefull\some thing usefull\bin\Debug\some thing usefull.exe.config
+I:\visual studio\some thing usefull\some thing usefull\bin\Debug\some thing usefull.exe
+I:\visual studio\some thing usefull\some thing usefull\bin\Debug\some thing usefull.pdb
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some thing usefull.csprojAssemblyReference.cache
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some_thing_usefull.Form1.resources
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some thing usefull.csproj.GenerateResource.cache
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some thing usefull.csproj.CoreCompileInputs.cache
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some thing usefull.exe
+I:\visual studio\some thing usefull\some thing usefull\obj\Debug\some thing usefull.pdb
